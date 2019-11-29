@@ -1,0 +1,13 @@
+{
+  "offset": 0,
+  "totalCount": 1,
+  "items": [
+     {
+        "name":"offset",
+        "id":"query1r",
+        "required":false,
+        "type":2,
+        "format": 233
+     }
+  ]
+}
