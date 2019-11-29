@@ -1,7 +1,7 @@
 # swagger-mocker
 This small API parse a swagger definition file and outputs mock files with exposed endpoints.
 
-# Instalation:
+# Installation:
 Chekout and run in on your virtual env. Install all dependecies from the requemrents file and repalce the contents of the swagger.json file under static folder.
 
 # Important note
